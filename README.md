@@ -14,3 +14,8 @@ This a roadmap to machine learning which I embarked upon!
 
 ### YouTube
 1. [Krish Naik](https://www.youtube.com/user/krishnaik06/videos)
+
+
+
+### Books
+1. [Laurence Moroney - AI and Machine Learning for Coders_ A Programmer's Guide to Artificial Intelligence-O'Reilly Media (2020)](https://www.mediafire.com/file/wfarmnphaop0drd/Laurence_Moroney_-_AI_and_Machine_Learning_for_Coders__A_Programmer%2527s_Guide_to_Artificial_Intelligence-O%2527Reilly_Media_%25282020%2529.pdf/file)
