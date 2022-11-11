@@ -1,4 +1,4 @@
-# Roadmap To Machine Learning
+# Roadmap To Machine Learning & Resources
 
 This a roadmap to machine learning which I embarked upon!
 
