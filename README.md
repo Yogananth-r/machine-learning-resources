@@ -22,5 +22,6 @@ This a roadmap to machine learning which I embarked upon!
 2. [MACHINE LEARNING WITH PYTORCH AND SCIKIT-LEARN - develop machine learning and deep learning models with scikit-learn and pytorch.-PACKT - SEBASTIAN LIU YUXI (HAYDEN) MIRJALILI VAHID RASCHKA](https://www.mediafire.com/file/aepzcouxazsxcuv/MACHINE_LEARNING_WITH_PYTORCH_AND_SCIKIT-LEARN_develop_machine_learning_and_deep_learning_models_with_scikit-learn_and_pytorch.-PACKT__-_SEBASTIAN_LIU_YUXI_%2528HAYDEN%2529_MIRJALILI_VAHID_RASCHKA_-_.pdf/file)
 
 ### Online GPU servers To Run Jupyter Notebooks
-1. [Google Colab](https://colab.research.google.com)
+1. [Google Colab](https://colab.research.google.com) 
+2. [Kaggle Kernels](https://kaggle.com)
 
