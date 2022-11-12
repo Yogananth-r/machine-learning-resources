@@ -26,4 +26,5 @@ This a roadmap to machine learning which I embarked upon!
 2. [Kaggle Kernels](https://kaggle.com/code)
 3. [Binder](https://mybinder.org)
 4. [Amazon SageMaker Free Tier](https://aws.amazon.com/sagemaker/pricing/)
+5. [IBM Cloud Pak for Data](https://www.ibm.com/in-en/products/cloud-pak-for-data)
 
