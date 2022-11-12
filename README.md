@@ -23,5 +23,5 @@ This a roadmap to machine learning which I embarked upon!
 
 ### Online GPU servers To Run Jupyter Notebooks
 1. [Google Colab](https://colab.research.google.com) 
-2. [Kaggle Kernels](https://kaggle.com)
+2. [Kaggle Kernels](https://kaggle.com/code)
 
