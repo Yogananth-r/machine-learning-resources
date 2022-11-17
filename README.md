@@ -36,3 +36,4 @@ This a roadmap to machine learning which I embarked upon!
 
 ### Specialization Online ML Courses
 1. [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
+2. [DS-GA 1008 Deep Learning](https://cds.nyu.edu/deep-learning/)
