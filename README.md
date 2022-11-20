@@ -38,4 +38,4 @@ This a roadmap to machine learning which I embarked upon!
 1. [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
 2. [DS-GA 1008 Deep Learning](https://cds.nyu.edu/deep-learning/)
 3. [Cornell Tech 5787 Applied Machine Learning](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
-4. [Pracctical Deep Learning for Coders - Recorded at University of Queensland](https://course.fast.ai)
+4. [Practical Deep Learning for Coders - Recorded at University of Queensland](https://course.fast.ai)
