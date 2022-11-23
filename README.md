@@ -11,6 +11,7 @@ This a roadmap to machine learning which I embarked upon!
 4. [Machine Learning A-Z™: Hands-On Python & R In Data Science - Udemy](https://www.udemy.com/share/101Wci/)
 5. [Intro to TensorFlow for Deep Learning - Udacity](https://learn.udacity.com/courses/ud187)
 6. [Intro to Machine Learning - Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
+7. [Machine Learning with Python: from Linear Models to Deep Learning - edX](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to)
 
 
 
