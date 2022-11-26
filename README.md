@@ -53,4 +53,9 @@ This a roadmap to machine learning which I embarked upon!
 1. SQL - > [SQLBolt.com](https://SQLBolt.com)
 2. Python - > [LearnPython.org](https://learnpython.org)
 3. Statistics - > [Statistics Fundamentals](https://bit.ly/StatEssentials)
-4. Machine Learning - > [ML]()
+4. Machine Learning - > [ML](https://github.com/Yogananth-r/machine-learning-resources)
+
+
+
+### Practice Data Science
+1. 
