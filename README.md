@@ -60,5 +60,5 @@ This a roadmap to machine learning which I embarked upon!
 ### Practice Data Science
 1. SQL - > [DataLemur](https://datalemur.com) || [HackerRank](https://www.hackerrank.com/domains/sql)
 2. Python - > [CodingBat](https://CodingBat.com/python) || [HackerRank](https://www.hackerrank.com/domains/python)
-3. Statistics - > [Stats Interview Preparation](https://www.nicksingh.com/posts/40-probability-statistics-data-science-interview-asked-by-fang-wall-street)
+3. Statistics - > [Stats Interview Preparation](https://www.nicksingh.com/posts/40-probability-statistics-data-science-interview-asked-questions-by-fang-wall-street)
 4. Machine Learning - > [Kaggle](https://kaggle.com)
