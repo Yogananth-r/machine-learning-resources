@@ -44,11 +44,12 @@ This a roadmap to machine learning which I embarked upon!
 
 
 ### Jupyter Notebooks
-1. [Jupyter-naas awesome-notebooks - Datascience templates](https://github.com/jupyter-naas/awesome-notebooks)
+1. [Jupyter-Naas awesome-notebooks - Datascience templates](https://github.com/jupyter-naas/awesome-notebooks)
 2. [Vinta Awesome Python - Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python)
 
 
 
 ### Learn Data Science
 1. SQL - > [SQLBolt.com](https://SQLBolt.com)
-2. Python - > [CodingBat.com](https://CodingBat.com/python)
+2. Python - > [LearnPython.org](https://learnpython.org)
+3. Statistics - > [Statistics Fundamentals](https://bit.ly/StatEssentials)
