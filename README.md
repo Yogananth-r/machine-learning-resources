@@ -58,4 +58,4 @@ This a roadmap to machine learning which I embarked upon!
 
 
 ### Practice Data Science
-1. 
+1. SQL - > [DataLemur](https://datalemur.com)
