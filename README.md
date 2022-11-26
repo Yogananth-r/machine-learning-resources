@@ -3,7 +3,7 @@
 This a roadmap to machine learning which I embarked upon!
 
 ## Journey (& Resources)
-<div id="#ML">
+
 ### Online Courses
 1. [Machine Learning Crash Course with TensorFlow APIs - Google](https://developers.google.com/machine-learning/crash-course)
 2. [Machine Learning with Python - freeCodeCamp](https://www.freecodecamp.org/learn/machine-learning-with-python/)
@@ -12,7 +12,7 @@ This a roadmap to machine learning which I embarked upon!
 5. [Intro to TensorFlow for Deep Learning - Udacity](https://learn.udacity.com/courses/ud187)
 6. [Intro to Machine Learning - Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
 7. [Machine Learning with Python: from Linear Models to Deep Learning - edX](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to)
-</div>
+
 
 
 ### YouTube
