@@ -50,4 +50,4 @@ This a roadmap to machine learning which I embarked upon!
 
 
 ### Learn Data Science
-1. SQL - > [https://SQLBolt.com](SQLBolt.com)
+1. SQL - > [SQLBolt.com](https://SQLBolt.com)
