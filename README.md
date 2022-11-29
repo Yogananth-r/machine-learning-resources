@@ -12,7 +12,7 @@ This a roadmap to machine learning which I embarked upon!
 5. [Intro to TensorFlow for Deep Learning - Udacity](https://learn.udacity.com/courses/ud187)
 6. [Intro to Machine Learning - Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
 7. [Machine Learning with Python : from Linear Models to Deep Learning - edX](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to)
-8. [Machine Learning - Learn Digital With Google](https://learndigital.withgoogle.com/digitalunlocked/courses?category=data)
+8. [Machine Learning Courses - Learn Digital With Google](https://learndigital.withgoogle.com/digitalunlocked/courses?category=data)
 
 
 
