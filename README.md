@@ -8,10 +8,10 @@ This a roadmap to machine learning which I embarked upon!
 1. [Machine Learning Crash Course with TensorFlow APIs - Google](https://developers.google.com/machine-learning/crash-course)
 2. [Machine Learning with Python - freeCodeCamp](https://www.freecodecamp.org/learn/machine-learning-with-python/)
 3. [Machine Learning with Python - Coursera](https://www.coursera.org/learn/machine-learning-with-python)
-4. [Machine Learning A-Z™: Hands-On Python & R In Data Science - Udemy](https://www.udemy.com/share/101Wci/)
+4. [Machine Learning A-Z™ : Hands-On Python & R In Data Science - Udemy](https://www.udemy.com/share/101Wci/)
 5. [Intro to TensorFlow for Deep Learning - Udacity](https://learn.udacity.com/courses/ud187)
 6. [Intro to Machine Learning - Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
-7. [Machine Learning with Python: from Linear Models to Deep Learning - edX](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to)
+7. [Machine Learning with Python : from Linear Models to Deep Learning - edX](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to)
 8. [Machine Learning - Learn Digital With Google](https://learndigital.withgoogle.com/digitalunlocked/courses?category=data)
 
 
