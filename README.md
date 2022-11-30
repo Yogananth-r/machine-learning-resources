@@ -64,3 +64,8 @@ This a roadmap to machine learning which I embarked upon!
 2. Python - > [CodingBat](https://CodingBat.com/python) || [HackerRank](https://www.hackerrank.com/domains/python)
 3. Statistics - > [Statistics Interview Preparation](https://www.nicksingh.com/posts/40-probability-statistics-data-science-interview-questions-asked-by-fang-wall-street)
 4. Machine Learning - > [Kaggle](https://kaggle.com)
+
+
+
+Blogs -
+1. [Introduction to Machine Learning](https://yogananth-r.blogspot.com/2022/05/introduction-to-machine-learning.html)
