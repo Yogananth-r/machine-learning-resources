@@ -67,5 +67,16 @@ This a roadmap to machine learning which I embarked upon!!!
 
 
 
+### Python / Machine Learning Libraries to Master -
+1. Numpy :
+   Docs - [](https://numpy.org/doc/stable/user/)
+   Video - [](https://youtu.be/QUT1VHiLmmI)
+   
+
+
+
+
+
+
 ### Blogs -
 1. [Introduction to Machine Learning](https://yogananth-r.blogspot.com/2022/05/introduction-to-machine-learning.html)
