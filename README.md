@@ -69,8 +69,8 @@ This a roadmap to machine learning which I embarked upon!!!
 
 ### Python / Machine Learning Libraries to Master -
 1. Numpy :
-   Docs - [](https://numpy.org/doc/stable/user/)
-   Video - [](https://youtu.be/QUT1VHiLmmI)
+   [Docs](https://numpy.org/doc/stable/user/)
+   [Video](https://youtu.be/QUT1VHiLmmI)
    
 
 
