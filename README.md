@@ -21,7 +21,7 @@ This a roadmap to machine learning which I embarked upon!!
 2. [Sentdex](https://youtube.com/@sentdex)
 3. [Kimberly Brehm - Mathematics](https://youtube.com/@SawFinMathematics)
 4. [Professor Leonard - Mathematics](https://youtube.com/@ProfessorLeonard)
-5. [The Organic Chemistry Tutor](https://youtube.com/@TheOrganicChemistryTutor)
+5. [The Organic Chemistry Tutor - Mathematics](https://youtube.com/@TheOrganicChemistryTutor)
 6. [Derek Banas](https://youtube.com/@derekbanas)
 
 
