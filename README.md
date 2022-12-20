@@ -31,7 +31,7 @@ This a roadmap to machine learning which I embarked upon!!!
 ### Books
 1. [Laurence Moroney - AI and Machine Learning for Coders - A Programmer's Guide to Artificial Intelligence - O'Reilly Media (2020)](https://www.mediafire.com/file/wfarmnphaop0drd/Laurence_Moroney_-_AI_and_Machine_Learning_for_Coders__A_Programmer%2527s_Guide_to_Artificial_Intelligence-O%2527Reilly_Media_%25282020%2529.pdf/file)
 2. [MACHINE LEARNING WITH PYTORCH AND SCIKIT-LEARN - develop machine learning and deep learning models with scikit-learn and pytorch - PACKT - SEBASTIAN LIU YUXI (HAYDEN) MIRJALILI VAHID RASCHKA](https://www.mediafire.com/file/aepzcouxazsxcuv/MACHINE_LEARNING_WITH_PYTORCH_AND_SCIKIT-LEARN_develop_machine_learning_and_deep_learning_models_with_scikit-learn_and_pytorch.-PACKT__-_SEBASTIAN_LIU_YUXI_%2528HAYDEN%2529_MIRJALILI_VAHID_RASCHKA_-_.pdf/file)
-3. [ML BookCamp](https://github.com/alexeygrigorev/mlbookcamp-code)
+3. [ML BookCamp - Repo](https://github.com/alexeygrigorev/mlbookcamp-code)
 4. [100+ Best Free DataScience Books For Beginners, Intermediate and Advanced Enthusiast](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html)
 
 
