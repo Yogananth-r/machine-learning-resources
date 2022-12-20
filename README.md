@@ -24,7 +24,7 @@ This a roadmap to machine learning which I embarked upon!!!
 4. [Kimberly Brehm - Mathematics](https://youtube.com/@SawFinMathematics)
 5. [Professor Leonard - Mathematics](https://youtube.com/@ProfessorLeonard)
 6. [The Organic Chemistry Tutor - Mathematics](https://youtube.com/@TheOrganicChemistryTutor)
-7. [Patrick Loeber - Machine Learning from Scratch(Python)](https://youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
+7. [Patrick Loeber - Machine Learning from Scratch (Python)](https://youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
 
 
 
