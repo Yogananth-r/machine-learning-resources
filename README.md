@@ -17,6 +17,10 @@ This a roadmap to machine learning which I embarked upon!!
 10. [Data Science for Beginners - Microsoft](https://github.com/microsoft/Data-Science-For-Beginners)
 
 
+
+- [Machine Learning Course Notes dair-ai](https://github.com/dair-ai/ML-Course-Notes)
+
+
 ### YouTube
 1. [Krish Naik](https://www.youtube.com/user/krishnaik06/videos)
 2. [Sentdex](https://youtube.com/@sentdex)
