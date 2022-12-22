@@ -20,6 +20,7 @@ This a roadmap to machine learning which I embarked upon!!
 
 - [Machine Learning Course Notes dair-ai](https://github.com/dair-ai/ML-Course-Notes)
 - [Datascience Cheatsheet - aaronwangy](https://github.com/aaronwangy/Data-Science-Cheatsheet)
+- [Datascience Interviews](https://github.com/alexeygrigorev/data-science-interviews)
 
 
 ### YouTube
