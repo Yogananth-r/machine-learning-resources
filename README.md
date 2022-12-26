@@ -33,7 +33,7 @@ This a roadmap to machine learning which I embarked upon!!
 5. [Professor Leonard - Mathematics](https://youtube.com/@ProfessorLeonard)
 6. [The Organic Chemistry Tutor - Mathematics](https://youtube.com/@TheOrganicChemistryTutor)
 7. [Patrick Loeber - Machine Learning from Scratch (Python)](https://youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
-8. [Python for Beginners](https://youtu.be/rfscVS0vtbw)
+8. [Python for Beginners - freeCodeCamp](https://youtu.be/rfscVS0vtbw)
 
 
 ### Books
