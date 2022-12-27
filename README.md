@@ -22,6 +22,7 @@ This a roadmap to machine learning which I embarked upon!!
 - [Datascience Cheatsheet - aaronwangy](https://github.com/aaronwangy/Data-Science-Cheatsheet)
 - [Datascience Interviews](https://github.com/alexeygrigorev/data-science-interviews)
 - [Deep Learning](https://github.com/iamtrask/Grokking-Deep-Learning)
+- [Reinforcement Learning](https://datamachines.xyz/the-hands-on-reinforcement-learning-course-page/)
 
 <br>
 
