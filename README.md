@@ -67,6 +67,7 @@ This a roadmap to machine learning which I embarked upon!!
 1. [Jupyter-Naas Awesome-Notebooks - Data Science templates](https://github.com/jupyter-naas/awesome-notebooks)
 2. [Vinta Awesome-Python - Python Frameworks, libraries, software and resources](https://github.com/vinta/awesome-python)
 3. [dair-ai ML Notebooks](https://github.com/dair-ai/ML-Notebooks)
+4. [Machine Learning - PCA](https://github.com/patchy631/machine-learning)
 
 
 ### Learn Data Science
