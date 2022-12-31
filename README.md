@@ -94,8 +94,10 @@ This a roadmap to machine learning which I embarked upon!!
 1. Numpy : <br>
          &emsp;[Read Docs](https://numpy.org/doc/stable/user/)<br>
          &emsp;[Watch Video](https://youtu.be/QUT1VHiLmmI)
-   
 
+2. Pandas : <br>
+         &emsp;[Read Docs](https://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html)<br>
+         &emsp;[Watch Video](https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 
 
 ### Blogs -
