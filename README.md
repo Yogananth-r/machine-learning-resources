@@ -99,6 +99,11 @@ This a roadmap to machine learning which I embarked upon!!
          &emsp;[Read Docs](https://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html)<br>
          &emsp;[Watch Video](https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 
+3. Scikit-Learn: <br>
+         &emsp;[Read Docs](https://scikit-learn.org/stable/user_guide.html)<br>
+         &emsp;[Watch Video](https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
+
+
 
 ### Blogs -
 1. [Introduction to Machine Learning](https://yogananth-r.blogspot.com/2022/05/introduction-to-machine-learning.html)
