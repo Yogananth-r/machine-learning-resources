@@ -25,7 +25,7 @@ This a roadmap to machine learning which I embarked upon!!
 - [Reinforcement Learning](https://datamachines.xyz/the-hands-on-reinforcement-learning-course-page/)
 - [Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow)
 - [Hands-on ML](https://github.com/ageron/handson-ml3)
-- [](https://coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+- [MLOps - Coursera](https://coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 
 <br>
 
