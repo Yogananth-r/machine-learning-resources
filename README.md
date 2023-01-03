@@ -26,7 +26,7 @@ This a roadmap to machine learning which I embarked upon!!
 - [Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow)
 - [Hands-on ML](https://github.com/ageron/handson-ml3)
 - [MLOps - Coursera](https://coursera.org/specializations/machine-learning-engineering-for-production-mlops)
-- [](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+- [ML Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 <br>
 
 
