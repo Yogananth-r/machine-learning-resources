@@ -107,7 +107,7 @@ This a roadmap to machine learning which I embarked upon!!
 
 4. PyTorch : <br>
          &emsp;[Read Docs](https://pytorch.org/tutorials/)<br>
-         &emsp;[Watch Video](https://youtube.com/playlist?list=PLS1QulWo1RIa7ha9SewcZlsTQVwL7n7oq)
+         &emsp;[Watch Video](https://youtube.com/playlist?list=PL98nY_tJQXZln8spB5uTZdKN08mYGkOf2)
 
 
 
