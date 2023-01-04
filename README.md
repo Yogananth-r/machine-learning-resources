@@ -105,6 +105,10 @@ This a roadmap to machine learning which I embarked upon!!
          &emsp;[Read Docs](https://scikit-learn.org/stable/user_guide.html)<br>
          &emsp;[Watch Video](https://youtube.com/playlist?list=PLS1QulWo1RIa7ha9SewcZlsTQVwL7n7oq)
 
+4. PyTorch : <br>
+         &emsp;[Read Docs](https://pytorch.org/tutorials/)<br>
+         &emsp;[Watch Video](https://youtube.com/playlist?list=PLS1QulWo1RIa7ha9SewcZlsTQVwL7n7oq)
+
 
 
 ### Blogs -
