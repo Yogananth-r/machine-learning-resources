@@ -112,7 +112,7 @@ This a roadmap to machine learning which I embarked upon!!
 
 5. TensorFlow : <br>
          &emsp;[Read Docs](https://tensorflow.org/)<br>
-         &emsp;[Watch Video](https://youtube.com/playlist?list=PL98nY_tJQXZln8spB5uTZdKN08mYGkOf2)
+         &emsp;[Watch Video](https://youtu.be/tPYj3fFJGjk)
 
 
 
