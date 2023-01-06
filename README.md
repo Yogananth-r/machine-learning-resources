@@ -15,8 +15,6 @@ This a roadmap to machine learning which I embarked upon!!
 8. [Machine Learning Courses - Learn Digital With Google](https://learndigital.withgoogle.com/digitalunlocked/courses?category=data)
 9. [Machine Learning for Beginners - Microsoft](https://github.com/microsoft/ML-For-Beginners)
 10. [Data Science for Beginners - Microsoft](https://github.com/microsoft/Data-Science-For-Beginners)
-
-
 <br>
 
 
@@ -108,7 +106,7 @@ This a roadmap to machine learning which I embarked upon!!
 1. [Introduction to Machine Learning](https://yogananth-r.blogspot.com/2022/05/introduction-to-machine-learning.html)
 
 <br>
-###MISC
+### MISC
 - [Machine Learning Course Notes dair-ai](https://github.com/dair-ai/ML-Course-Notes)
 - [Datascience Cheatsheet - aaronwangy](https://github.com/aaronwangy/Data-Science-Cheatsheet)
 - [Datascience Interviews](https://github.com/alexeygrigorev/data-science-interviews)
