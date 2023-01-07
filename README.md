@@ -118,4 +118,4 @@ This a roadmap to machine learning which I embarked upon!!
 - [Hands-on ML](https://github.com/ageron/handson-ml3)
 - [MLOps - Coursera](https://coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 - [ML Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
-- [](https://github.com/khangich/machine-learning-interview)
+- [ML Interview Prep](https://github.com/khangich/machine-learning-interview)
