@@ -29,6 +29,7 @@ This a roadmap to machine learning which I embarked upon!!
 7. [Patrick Loeber - Machine Learning from Scratch (Python)](https://youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
 8. [Python for Beginners - freeCodeCamp](https://youtu.be/rfscVS0vtbw)
 9. [MLOps - DeepLearningAI](https://youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK)
+10. [Machine Learning Specialization - DeepLearningAI](https://youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI)
 
 
 ### Books
