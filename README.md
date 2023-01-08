@@ -101,7 +101,9 @@ This a roadmap to machine learning which I embarked upon!!
          &emsp;[Read Docs](https://tensorflow.org/)<br>
          &emsp;[Watch Video](https://youtu.be/tPYj3fFJGjk)
 
-
+6. Matplotlib: <br>
+         &emsp;[Read Docs](https://matplotlib.org/stable/tutorials/index.html)<br>
+         &emsp;[Watch Video](https://youtu.be/tPYj3fFJGjk)
 
 ### Blogs 
 1. [Introduction to Machine Learning](https://yogananth-r.blogspot.com/2022/05/introduction-to-machine-learning.html)
