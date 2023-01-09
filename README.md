@@ -124,3 +124,4 @@ This a roadmap to machine learning which I embarked upon!!
 - [MLOps - Coursera](https://coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 - [ML Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [ML Interview Prep](https://github.com/khangich/machine-learning-interview)
+- [ML CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
