@@ -37,6 +37,7 @@ This a roadmap to machine learning which I embarked upon!!
 2. [MACHINE LEARNING WITH PYTORCH AND SCIKIT-LEARN - develop machine learning and deep learning models with scikit-learn and pytorch - PACKT - SEBASTIAN LIU YUXI (HAYDEN) MIRJALILI VAHID RASCHKA](https://www.mediafire.com/file/aepzcouxazsxcuv/MACHINE_LEARNING_WITH_PYTORCH_AND_SCIKIT-LEARN_develop_machine_learning_and_deep_learning_models_with_scikit-learn_and_pytorch.-PACKT__-_SEBASTIAN_LIU_YUXI_%2528HAYDEN%2529_MIRJALILI_VAHID_RASCHKA_-_.pdf/file)
 3. [ML BookCamp - Repo](https://github.com/alexeygrigorev/mlbookcamp-code)
 4. [100+ Best Free DataScience Books For Beginners, Intermediate and Advanced Enthusiast](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html)
+5. (https://github.com/d2l-ai/d2l-en)
 
 
 
