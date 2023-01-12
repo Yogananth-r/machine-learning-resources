@@ -127,4 +127,4 @@ This a roadmap to machine learning which I embarked upon!!
 - [ML Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [ML Interview Prep](https://github.com/khangich/machine-learning-interview)
 - [ML CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
-- NN [YouTube]() []()
+- NN [YouTube](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) [GitHub]()
