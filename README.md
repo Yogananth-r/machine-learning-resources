@@ -30,7 +30,7 @@ This a roadmap to machine learning which I embarked upon!!
 8. [Python for Beginners - freeCodeCamp](https://youtu.be/rfscVS0vtbw)
 9. [MLOps - DeepLearningAI](https://youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK)
 10. [Machine Learning Specialization - DeepLearningAI](https://youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI)
-11. [](https://youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
+11. [Machine Learning - mathematicalmonk](https://youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 
 
 ### Books
