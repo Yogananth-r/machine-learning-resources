@@ -31,7 +31,7 @@ This a roadmap to machine learning which I embarked upon!!
 9. [MLOps - DeepLearningAI](https://youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK)
 10. [Machine Learning Specialization - DeepLearningAI](https://youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI)
 11. [Machine Learning - mathematicalmonk](https://youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
-12. [Fullstack Deep Learning]
+12. [Fullstack Deep Learning](https://youtube.com/playlist?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur)
 
 
 
