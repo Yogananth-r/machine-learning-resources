@@ -134,5 +134,5 @@ This a roadmap to machine learning which I embarked upon!!
 - NN [YouTube](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) [GitHub](https://github.com/karpathy/nn-zero-to-hero)
 - [ML awesome-bigdata](https://github.com/newTendermint/awesome-bigdata#machine-learning)
 - [ML awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
-- [ML Papers Explained]()
+- [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained)
 - [OPENAI CHATGPT](https://chat.openai.com/chat)
