@@ -132,7 +132,7 @@ This a roadmap to machine learning which I embarked upon!!
 - [ML Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [ML Interview Prep](https://github.com/khangich/machine-learning-interview)
 - [ML CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
-- Neural Network [YouTube](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) [GitHub](https://github.com/karpathy/nn-zero-to-hero)
+- Neural Network [YouTube](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) | [GitHub](https://github.com/karpathy/nn-zero-to-hero)
 - [ML awesome-bigdata](https://github.com/newTendermint/awesome-bigdata#machine-learning)
 - [ML awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained)
