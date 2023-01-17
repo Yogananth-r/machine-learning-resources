@@ -114,7 +114,6 @@ This a roadmap to machine learning which I embarked upon!!
 
 ### Blogs 
 1. [Introduction to Machine Learning](https://yogananth-r.blogspot.com/2022/05/introduction-to-machine-learning.html)
-
 <br>
 
 
