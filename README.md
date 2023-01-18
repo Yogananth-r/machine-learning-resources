@@ -2,7 +2,7 @@
 
 This a roadmap to machine learning which I embarked upon!!
 
-## Journey ( -& Resources)
+## Journey ( & Resources)
 
 ### Online Courses
 1. [Machine Learning Crash Course with TensorFlow APIs - Google](https://developers.google.com/machine-learning/crash-course)
@@ -60,6 +60,7 @@ This a roadmap to machine learning which I embarked upon!!
 2. [DS-GA 1008 Deep Learning](https://cds.nyu.edu/deep-learning/)
 3. [Cornell Tech 5787 Applied Machine Learning](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
 4. [Practical Deep Learning for Coders - Recorded at University of Queensland](https://course.fast.ai)
+5. [Deep Learning - Coursera]
 
 
 
