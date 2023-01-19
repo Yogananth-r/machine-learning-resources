@@ -69,7 +69,7 @@ This a roadmap to machine learning which I embarked upon!!
 2. [Vinta Awesome-Python - Python Frameworks, libraries, software and resources](https://github.com/vinta/awesome-python)
 3. [dair-ai ML Notebooks](https://github.com/dair-ai/ML-Notebooks)
 4. [Machine Learning - PCA & Others](https://github.com/patchy631/machine-learning)
-5. [Machine Learning] 
+5. [Machine Learning](https://github.com/ethen8181/machine-learning)
 
 
 ### Learn Data Science
