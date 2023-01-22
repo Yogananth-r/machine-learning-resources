@@ -64,7 +64,7 @@ This a roadmap to machine learning which I embarked upon!!
 3. [Cornell Tech 5787 Applied Machine Learning](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
 4. [Practical Deep Learning for Coders - Recorded at University of Queensland](https://course.fast.ai)
 5. [Deep Learning - Coursera](https://coursera.org/specializations/deep-learning)
-6. [Made With ML - MLO](https://madewithml.com/)
+6. [Made With ML - MLOps](https://madewithml.com/)
 
 
 
