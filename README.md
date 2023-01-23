@@ -34,7 +34,7 @@ This a roadmap to machine learning which I embarked upon!!
 10. [Machine Learning Specialization - DeepLearningAI](https://youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI)
 11. [Machine Learning - mathematicalmonk](https://youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 12. [Full Stack Deep Learning](https://youtube.com/playlist?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur)
-13. [3Blue1Brown](https://youtube.com/@3blue1brown)
+13. [3Blue1Brown - Data Science](https://youtube.com/@3blue1brown)
 14. [Siraj Raval - Machine Learning](https://youtube.com/playlist?list=PL2-dafEMk2A6TMJdtMZTusTbtUeWAKc3f)
 15. [Data School - Data Science and Various Libraries](https://youtube.com/@dataschool)
 
