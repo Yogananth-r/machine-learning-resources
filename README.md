@@ -37,7 +37,7 @@ This a roadmap to machine learning which I embarked upon!!
 13. [3Blue1Brown - Data Science](https://youtube.com/@3blue1brown)
 14. [Siraj Raval - Machine Learning](https://youtube.com/playlist?list=PL2-dafEMk2A6TMJdtMZTusTbtUeWAKc3f)
 15. [Data School - Data Science and Various Libraries](https://youtube.com/@dataschool)
-16. [](https://youtube.com/@TwoMinutePapers)
+16. [TwoMinutePapers ](https://youtube.com/@TwoMinutePapers)
 
 
 
