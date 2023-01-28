@@ -147,5 +147,5 @@ This a roadmap to machine learning which I embarked upon!!
 - [ML awesome-bigdata](https://github.com/newTendermint/awesome-bigdata#machine-learning)
 - [ML awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained)
-- [ML Projects - DL AI NLP](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+- [500 ML Projects - DL AI NLP](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 - [OPENAI CHATGPT](https://chat.openai.com/chat)
