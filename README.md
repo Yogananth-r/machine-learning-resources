@@ -84,7 +84,7 @@ This a roadmap to machine learning which I embarked upon!!
 ### Learn Data Science
 1. SQL - > [SQLBolt.com](https://SQLBolt.com) |
 2. Python - > [LearnPython.org](https://learnpython.org) |
-3. Statistics - > [Statistics Fundamentals](https://bit.ly/StatEssentials) | [](https://www.khanacademy.org/math/statistics-probability)
+3. Statistics - > [Statistics Fundamentals](https://bit.ly/StatEssentials) | [Probability and Statistics - Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 4. Machine Learning - > [ML](https://yogananth-r.github.io/machine-learning-resources/) |
 
 
