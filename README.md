@@ -69,6 +69,7 @@ This a roadmap to machine learning which I embarked upon!!
 4. [Practical Deep Learning for Coders - Recorded at University of Queensland](https://course.fast.ai)
 5. [Deep Learning - Coursera](https://coursera.org/specializations/deep-learning)
 6. [Made With ML - MLOps](https://madewithml.com/)
+7. [MLOps - Coursera](https://coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 
 
 
@@ -139,7 +140,6 @@ This a roadmap to machine learning which I embarked upon!!
 - [Reinforcement Learning](https://datamachines.xyz/the-hands-on-reinforcement-learning-course-page/)
 - [Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow)
 - [Hands-on ML](https://github.com/ageron/handson-ml3)
-- [MLOps - Coursera](https://coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 - [ML Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [ML Interview Prep](https://github.com/khangich/machine-learning-interview)
 - [ML CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
