@@ -17,6 +17,7 @@ This a roadmap to machine learning which I embarked upon!!
 10. [Data Science for Beginners - Microsoft](https://github.com/microsoft/Data-Science-For-Beginners)
 11. [Machine Learning Introduction - Coursera](https://coursera.org/specializations/machine-learning-introduction)
 12. [Applied Machine Learning with Python - University Of Michigan - Coursera](https://coursera.org/learn/python-machine-learning)
+13. [](https://course18.fast.ai/ml)
 <br>
 
 
