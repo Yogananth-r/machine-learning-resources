@@ -42,6 +42,7 @@ This a roadmap to machine learning which I embarked upon!!
 17. [Andrew Ng (Stanford University) - Machine Learning](https://youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 18. [Machine Learning from Scratch - AssemblyAI](https://youtube.com/playlist?list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd)
 19. [Machine Learning Recipes - Google Developers](https://youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+20. []()
 
 
 
