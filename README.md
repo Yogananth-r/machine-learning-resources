@@ -43,7 +43,7 @@ This a roadmap to machine learning which I embarked upon!!
 18. [Machine Learning from Scratch - AssemblyAI](https://youtube.com/playlist?list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd)
 19. [Machine Learning Recipes - Google Developers](https://youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 20. [Machine Learning with Phil](https://youtube.com/@MachineLearningwithPhil)
-21. [](https://youtube.com/@kaggle)
+21. [Kaggle](https://youtube.com/@kaggle)
 
 
 
