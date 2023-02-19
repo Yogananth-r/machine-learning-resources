@@ -45,7 +45,7 @@ This a roadmap to machine learning which I embarked upon!!
 20. [Machine Learning with Phil](https://youtube.com/@MachineLearningwithPhil)
 21. [Kaggle](https://youtube.com/@kaggle)
 22. [MLOps Communities - MLOps](https://youtube.com/@MLOps)
-23. - [Data Analysis - AlexTheAnalyst - YouTube](https://youtube.com/@AlexTheAnalyst)
+23. [Data Analysis - AlexTheAnalyst - YouTube](https://youtube.com/@AlexTheAnalyst)
 
 
 
