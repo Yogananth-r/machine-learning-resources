@@ -57,7 +57,7 @@ This a roadmap to machine learning which I embarked upon!!
 5. [DeepLearning Book](https://github.com/d2l-ai/d2l-en)
 6. [ML Cookbook - iPython](https://github.com/ipython-books/cookbook-2nd)
 7. [Understanding Deep Learning -udlbook](https://udlbook.github.io/udlbook/)
-8. [](https://github.com/ageron/handson-ml3)
+8. [handson-](https://github.com/ageron/handson-ml3)
 
 
 
