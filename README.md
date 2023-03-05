@@ -1,6 +1,6 @@
 # Roadmap To Machine Learning & Resources
 
-This a roadmap to machine learning which I embarked upon!!
+This is a List of Resources to get your journey of Machine Learning Started!!
 
 ## Journey ( & Resources)
 
