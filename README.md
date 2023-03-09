@@ -117,7 +117,7 @@ A) [Jupyter - Get Started - YouTube](https://youtu.be/HW29067qVWk)
 2. Pandas : <br>
          &emsp;[Read Docs](https://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html)<br>
          &emsp;[Watch Video](https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
-         &emsp;[](https://youtu.be/e60ItwlZTKM)
+         &emsp;[YT](https://youtu.be/e60ItwlZTKM)
 
 3. Scikit-Learn: <br>
          &emsp;[Read Docs](https://scikit-learn.org/stable/user_guide.html)<br>
