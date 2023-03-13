@@ -2,7 +2,7 @@
 
 This is a List of Resources to get your journey of Machine Learning Started!!
 
-##  Resources)
+##  Resources
 
 ### Online Courses
 1. [Machine Learning Crash Course with TensorFlow APIs - Google](https://developers.google.com/machine-learning/crash-course)
