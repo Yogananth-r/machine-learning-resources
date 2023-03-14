@@ -18,6 +18,7 @@ This is a List of Resources to get your journey of Machine Learning Started!!
 11. [Machine Learning Introduction - Coursera](https://coursera.org/specializations/machine-learning-introduction)
 12. [Applied Machine Learning with Python - University Of Michigan - Coursera](https://coursera.org/learn/python-machine-learning)
 13. [Introduction to Machine Learning for coders! - fast.ai](https://course18.fast.ai/ml)
+14. []()
 <br>
 
 
