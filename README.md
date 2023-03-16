@@ -140,6 +140,7 @@ A) [Jupyter - Get Started - YouTube](https://youtu.be/HW29067qVWk)
 
 ### Blogs 
 1. [Introduction to Machine Learning](https://yogananth-r.blogspot.com/2022/05/introduction-to-machine-learning.html)
+2. []()
 <br>
 
 
