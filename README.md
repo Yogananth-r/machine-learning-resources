@@ -152,7 +152,7 @@ A) [Jupyter - Get Started - YouTube](https://youtu.be/HW29067qVWk)
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [Papers with Code](https://paperswithcode.com/datasets)
 - [OpenML](https://www.openml.org/)
-- [](https://huggingface.co/datasets)
+- [Huggingface.co](https://huggingface.co/datasets)
 
 ### MISC
 
