@@ -81,7 +81,7 @@ This is a List of Resources to get your journey of Machine Learning Started!!
 6. [Made With ML - MLOps](https://madewithml.com/)
 7. [MLOps - Coursera](https://coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 8. [Machine Learning Big Data - Coursera](https://coursera.org/learn/machine-learning-big-data-apache-spark)
-9. []()
+9. [](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 
 
 
