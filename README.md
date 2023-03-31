@@ -157,7 +157,7 @@ A) [Jupyter - Get Started - YouTube](https://youtu.be/HW29067qVWk)
 
 ### MISC
 
-- [Machine Learning Techniques](https://github.com/ipython-books/cookbook-2nd)
+- [Machine Learning Techniques - ipython-books](https://github.com/ipython-books/cookbook-2nd)
 - [ML Algorithms - rushter](https://github.com/rushter/MLAlgorithms)
 - [Machine Learning Course Notes dair-ai](https://github.com/dair-ai/ML-Course-Notes)
 - [Datascience Cheatsheet - aaronwangy](https://github.com/aaronwangy/Data-Science-Cheatsheet)
