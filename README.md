@@ -44,7 +44,7 @@ This is a List of Resources to get your journey of Machine Learning Started!!
 18. [Machine Learning from Scratch - AssemblyAI](https://youtube.com/playlist?list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd)
 19. [Machine Learning Recipes - Google Developers](https://youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 20. [Machine Learning with Phil](https://youtube.com/@MachineLearningwithPhil)
-21. [Kaggle](https://youtube.com/@kaggle)
+21. [Kaggle ML](https://youtube.com/@kaggle)
 22. [MLOps Communities - MLOps](https://youtube.com/@MLOps)
 23. [Data Analysis - AlexTheAnalyst](https://youtube.com/@AlexTheAnalyst)
 
