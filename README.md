@@ -24,7 +24,7 @@ This is a List of Resources to get your journey of Machine Learning Started!!
 
 
 ### YouTube
-1. [Krish Naik](https://www.youtube.com/user/krishnaik06/videos)
+1. [Krish Naik - Python to ML](https://www.youtube.com/user/krishnaik06/videos)
 2. [Sentdex - Machine Learning](https://youtube.com/@sentdex)
 3. [Derek Banas](https://youtube.com/@derekbanas)
 4. [Kimberly Brehm - Mathematics](https://youtube.com/@SawFinMathematics)
