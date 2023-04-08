@@ -100,6 +100,7 @@ A) [Jupyter - Get Started - YouTube](https://youtu.be/HW29067qVWk)
 2. Python - > [LearnPython.org](https://learnpython.org) |
 3. Statistics - > [Statistics Fundamentals](https://bit.ly/StatEssentials) | [Probability and Statistics - Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 4. Machine Learning - > [ML](https://yogananth-r.github.io/machine-learning-resources/) |
+5. Datascience ->
 
 
 
