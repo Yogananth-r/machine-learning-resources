@@ -47,7 +47,7 @@ This is a List of Resources to get your journey of Machine Learning Started!!
 21. [Kaggle ML](https://youtube.com/@kaggle)
 22. [MLOps Communities - MLOps](https://youtube.com/@MLOps)
 23. [Data Analysis - AlexTheAnalyst](https://youtube.com/@AlexTheAnalyst)
-24. []()
+24. [](https://youtube.com/@patloeber)
 
 
 
