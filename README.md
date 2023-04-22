@@ -151,7 +151,7 @@ A) [Jupyter - Get Started - YouTube](https://youtu.be/HW29067qVWk)
 
 
 
-### DATA
+### DATASETS
 
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
