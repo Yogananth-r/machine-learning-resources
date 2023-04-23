@@ -48,7 +48,7 @@ This is a List of Resources to get your journey of Machine Learning Started!!
 22. [MLOps Communities - MLOps](https://youtube.com/@MLOps)
 23. [Data Analysis - AlexTheAnalyst](https://youtube.com/@AlexTheAnalyst)
 24. [Python and Machine Learning Tutorials - Patrick Loeber](https://youtube.com/@patloeber)
-25. [Deep Learning](https://youtube.com/playlist?list=PLM8lYG2MzHmQn55ii0duXdO9QSoDF5myF)
+25. [Deep Learning - Playlist](https://youtube.com/playlist?list=PLM8lYG2MzHmQn55ii0duXdO9QSoDF5myF)
 
 
 
