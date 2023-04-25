@@ -77,7 +77,7 @@ This is a List of Resources to get your journey of Machine Learning Started!!
 ### Specialization Online ML/DL Courses
 1. [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
 2. [DS-GA 1008 Deep Learning](https://cds.nyu.edu/deep-learning/)
-3. [Cornell Tech 5787 Applied Machine Learning](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
+3. [Cornell Tech 5787 Applied Machine Learning - YouTube](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
 4. [Practical Deep Learning for Coders - Recorded at University of Queensland](https://course.fast.ai)
 5. [Deep Learning - Coursera](https://coursera.org/specializations/deep-learning)
 6. [Made With ML - MLOps](https://madewithml.com/)
