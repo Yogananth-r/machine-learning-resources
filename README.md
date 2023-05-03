@@ -110,7 +110,7 @@ A) [Jupyter - Getting Started - YouTube](https://youtu.be/HW29067qVWk)
 1. SQL - > [DataLemur](https://datalemur.com) || [HackerRank](https://www.hackerrank.com/domains/sql)
 2. Python - > [CodingBat](https://CodingBat.com/python) || [HackerRank](https://www.hackerrank.com/domains/python)
 3. Statistics - > [Statistics Interview Preparation](https://www.nicksingh.com/posts/40-probability-statistics-data-science-interview-questions-asked-by-fang-wall-street) |
-4. Machine Learning - > [Kaggle](https://kaggle.com) |
+4. Machine Learning/Python - > [Kaggle](https://kaggle.com) |
 
 
 
