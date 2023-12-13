@@ -153,6 +153,7 @@ A) [Jupyter - Getting Started - YouTube](https://youtu.be/HW29067qVWk)
 
 ### DATASETS
 
+- [UCI Repository](https://archive.ics.uci.edu/)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [Google Datasets Research](https://datasetsearch.research.google.com/)
